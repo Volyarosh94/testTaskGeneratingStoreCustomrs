@@ -1,0 +1,35 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Environment variables
+.env
+
+# Log files
+*.log
+
+# Temporary files
+tmp/
+temp/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Coverage directory used by testing tools
+coverage/
+
+# Yarn and npm lock files
+yarn.lock
+package-lock.json
+
+# Misc
+*.swp
+*.swo
